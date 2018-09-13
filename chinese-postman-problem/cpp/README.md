@@ -1,0 +1,1 @@
+# Essas funções foram usadas como auxiliares para a implementação do algoritmo.
